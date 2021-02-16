@@ -68,7 +68,7 @@ ingestor.py <url_to_neo4j> -u <username> -p <password> -i <json_folder>
 ```
 
 # License
-MacHound is released under the license. For more details see LICENSE.
+MacHound is released under the GPL-3.0 License. For more details see LICENSE.md.
 
 # Contact Us
 For any question, suggestion, bug reporting please feel free to contact at rony@xmcyber.com
