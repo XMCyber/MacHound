@@ -6,7 +6,7 @@ In addition to using the HasSession and AdminTo edges, MacHound adds three new e
 * CanVNC - entity allowed to VNC to host
 * CanAE - entity allowed to execute AppleEvent scripts on host 
 
-To read more about MacHound, refer to the [introduction post](https://medium.com/xm-cyber)
+To read more about MacHound, refer to the [introduction post](https://medium.com/xm-cyber/introducing-machound-a-solution-to-macos-active-directory-based-attacks-2a425f0a22b6)
 
 # Data Collection
 ## Logged-in users (HasSession)
